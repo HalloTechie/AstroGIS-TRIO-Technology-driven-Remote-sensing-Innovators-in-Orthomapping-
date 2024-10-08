@@ -1,10 +1,10 @@
 # AstroGIS-TRIO-Technology-driven-Remote-sensing-Innovators-in-Orthomapping-
-NASA International Space App Challenge 2024: Project Task
-# Transforming Bengaluru’s Traffic with Data-Driven Insights
+
+Transforming Bengaluru’s Traffic with Data-Driven Insights
 
 We have developed an innovative traffic analysis and visualization solution for Bengaluru to tackle the city’s notorious congestion issues. Leveraging open-source datasets and integrating them with Geographic Information Systems (GIS), our project provides a detailed spatial representation of how urban infrastructure and physical geography influence traffic dynamics.
 
-# What We Developed
+What We Developed
 Our comprehensive analysis of Bengaluru’s traffic patterns includes:
 
 Dynamic Data Visualizations: Showcasing traffic volume trends and congestion levels across different areas.
